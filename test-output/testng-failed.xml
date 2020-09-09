@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="testcases.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Validating User login(failed)">
+    <classes>
+      <class name="stepDefinations.stepDefination">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="user_enters_and_and_logs_in"/>
+        </methods>
+      </class> <!-- stepDefinations.stepDefination -->
+    </classes>
+  </test> <!-- Validating User login(failed) -->
+</suite> <!-- Failed suite [Suite] -->

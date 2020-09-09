@@ -1,0 +1,68 @@
+00:39:37.865 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+00:39:42.277 [main] DEBUG ContactPage.NewContactTest - Test_04-PASS
+00:39:50.261 [main] INFO  ContactPage.EditContactTest - CheckAllContact_12-PASS
+00:43:36.232 [main] DEBUG LoginPage.LoginapplicationTest - TestCase PASS with invalid credentials
+00:43:41.573 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+00:43:45.509 [main] DEBUG ContactPage.NewContactTest - Test_04-PASS
+00:43:54.170 [main] INFO  ContactPage.EditContactTest - CheckAllContact_12-PASS
+00:45:33.573 [main] DEBUG LoginPage.LoginapplicationTest - TestCase PASS with invalid credentials
+00:45:41.027 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+00:45:45.636 [main] DEBUG ContactPage.NewContactTest - Test_04-PASS
+00:45:57.752 [main] INFO  ContactPage.EditContactTest - CheckAllContact_12-PASS
+04:48:19.026 [main] ERROR LoginPage.LoginapplicationTest - Title donot match-Thus Testcase FAIL
+05:01:02.025 [main] ERROR LoginPage.LoginapplicationTest - Title donot match-Thus Testcase FAIL
+05:05:01.513 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:10:41.449 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:12:24.566 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:41:53.827 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:48:23.314 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:52:40.821 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:57:52.498 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:23:35.810 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:30:59.637 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:33:07.883 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:45:21.346 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:27:35.037 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:37:30.891 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:37:42.707 [main] DEBUG productPage.addProductTest - Test_04-PASS
+09:39:03.630 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:39:10.955 [main] DEBUG productPage.addProductTest - Test_04-PASS
+20:28:59.275 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:49:10.696 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:55:51.538 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:57:24.494 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:02:42.750 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:04:14.687 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:12:37.012 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:18:32.567 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:29:01.182 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+05:59:46.144 [main] ERROR LoginPage.LoginapplicationTest - Title donot match-Thus Testcase FAIL
+06:06:42.942 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:11:10.184 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:13:08.476 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:15:04.800 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:17:12.300 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:21:47.188 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:36:12.950 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:40:47.445 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:43:06.428 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:07:06.952 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:10:31.991 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:13:28.146 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:39:21.155 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:41:10.492 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:42:55.890 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:07:08.233 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+10:21:02.354 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+10:25:46.903 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+10:33:35.608 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+10:40:41.848 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+10:43:08.277 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+17:02:50.975 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+17:38:15.085 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+17:55:50.387 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+18:03:27.970 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+18:31:37.168 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+19:54:14.931 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:00:52.877 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:09:59.427 [main] DEBUG LoginPage.LoginapplicationTest - Title match

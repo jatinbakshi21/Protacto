@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite preserve-order="true" name="Suite">
+	<listeners>
+		<listener class-name="testcases.Listeners"/>
+	</listeners>
+
+  <test name="Validating User login">
+    <classes>
+    
+          <class name="stepDefinations.stepDefination">
+	      <methods>
+	      	  <include name="initialize_the_browser_with_chrome"/>	
+	      	  <include name="click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page"/>
+	      	  
+		      <!-- <exclude name="Forgot_password"/> -->
+		      
+	      </methods>
+  	 </class>
+    
+      <!-- <class name="Academy.HomePage"/>
+          </classes>
+      </test>
+      
+    <test name="Validating title in the Page">
+         <classes>
+      <class name="Academy.validateTitle"/>
+       </classes>
+      </test>
+       <test name="App Testing">
+         <classes>
+      <class name="Academy.AppTest"/>
+       </classes>
+      </test>
+            <test name="Validating navigation Bar">
+         <classes>
+      <class name="Academy.validateNavigationBar"/> -->
+   </classes>
+      </test>
+   <!-- Test -->
+</suite> <!-- Suite -->

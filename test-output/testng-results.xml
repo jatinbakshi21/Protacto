@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41999" started-at="2020-08-08T12:48:05Z" finished-at="2020-08-08T12:48:47Z">
+    <groups>
+    </groups>
+    <test name="Validating User login" duration-ms="41999" started-at="2020-08-08T12:48:05Z" finished-at="2020-08-08T12:48:47Z">
+      <class name="stepDefinations.stepDefination">
+        <test-method status="PASS" signature="initialize_the_browser_with_chrome()[pri:0, instance:stepDefinations.stepDefination@128854b]" name="initialize_the_browser_with_chrome" duration-ms="40010" started-at="2020-08-08T12:48:06Z" finished-at="2020-08-08T12:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_the_browser_with_chrome -->
+        <test-method status="PASS" signature="click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page()[pri:0, instance:stepDefinations.stepDefination@128854b]" name="click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page" duration-ms="1729" started-at="2020-08-08T12:48:46Z" finished-at="2020-08-08T12:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:stepDefinations.stepDefination@128854b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-08-08T12:48:46Z" finished-at="2020-08-08T12:48:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=initialize_the_browser_with_chrome status=SUCCESS method=stepDefination.initialize_the_browser_with_chrome()[pri:0, instance:stepDefinations.stepDefination@128854b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:stepDefinations.stepDefination@128854b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-08-08T12:48:47Z" finished-at="2020-08-08T12:48:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page status=SUCCESS method=stepDefination.click_on_Login_link_in_home_page_to_land_on_Secure_sign_in_Page()[pri:0, instance:stepDefinations.stepDefination@128854b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:stepDefinations.stepDefination@128854b]" name="endTest" is-config="true" duration-ms="0" started-at="2020-08-08T12:48:47Z" finished-at="2020-08-08T12:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- stepDefinations.stepDefination -->
+    </test> <!-- Validating User login -->
+  </suite> <!-- Suite -->
+</testng-results>

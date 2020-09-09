@@ -1,0 +1,75 @@
+20:10:06.337 [main] DEBUG productPage.addProductTest - Test_04-PASS
+20:13:51.716 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:15:31.049 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:18:03.870 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:19:59.034 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:20:04.906 [main] DEBUG productPage.addProductTest - Test_04-PASS
+20:21:14.335 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:21:19.277 [main] DEBUG productPage.addProductTest - Test_04-PASS
+20:22:36.298 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:22:41.644 [main] DEBUG productPage.addProductTest - Test_04-PASS
+20:53:25.831 [main] ERROR LoginPage.LoginapplicationTest - Title donot match-Thus Testcase FAIL
+20:56:50.537 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+20:57:07.304 [main] DEBUG productPage.addProductTest - Test_04-PASS
+21:02:03.713 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+21:02:26.354 [main] DEBUG productPage.addProductTest - Test_04-PASS
+21:02:37.387 [main] DEBUG pos.posTest - Test_04-PASS
+21:17:31.406 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+21:17:46.176 [main] DEBUG productPage.addProductTest - Test_04-PASS
+21:17:55.553 [main] DEBUG pos.posTest - Test_04-PASS
+22:33:07.375 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:33:27.901 [main] DEBUG productPage.addProductTest - Test_04-PASS
+22:33:38.549 [main] DEBUG pos.posTest - Test_04-PASS
+22:35:52.546 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:36:07.161 [main] DEBUG productPage.addProductTest - Test_04-PASS
+22:36:16.380 [main] DEBUG pos.posTest - Test_04-PASS
+22:52:57.155 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:53:34.417 [main] DEBUG productPage.addProductTest - Test_04-PASS
+22:57:09.746 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+22:57:26.739 [main] DEBUG productPage.addProductTest - Test_04-PASS
+23:07:29.078 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+23:07:48.893 [main] DEBUG productPage.addProductTest - Test_04-PASS
+23:08:23.408 [main] DEBUG pos.posTest - Test_04-PASS
+06:43:07.544 [main] ERROR LoginPage.LoginapplicationTest - Title donot match-Thus Testcase FAIL
+06:44:10.439 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+06:44:23.463 [main] DEBUG productPage.addProductTest - Test_04-PASS
+06:45:03.586 [main] DEBUG pos.posTest - Test_04-PASS
+07:18:12.094 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:18:27.138 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:19:01.964 [main] DEBUG pos.posTest - Test_04-PASS
+07:20:46.859 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:21:05.765 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:21:40.512 [main] DEBUG pos.posTest - Test_04-PASS
+07:23:36.987 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:23:52.913 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:24:26.946 [main] DEBUG pos.posTest - Test_04-PASS
+07:29:41.904 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:30:02.043 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:30:35.917 [main] DEBUG pos.posTest - Test_04-PASS
+07:35:14.392 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:35:36.078 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:36:10.179 [main] DEBUG pos.posTest - Test_04-PASS
+07:37:31.884 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:37:47.954 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:38:21.942 [main] DEBUG pos.posTest - Test_04-PASS
+07:46:45.818 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+07:47:02.081 [main] DEBUG productPage.addProductTest - Test_04-PASS
+07:47:36.073 [main] DEBUG pos.posTest - Test_04-PASS
+08:29:46.476 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:32:48.712 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:34:22.501 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:34:40.444 [main] DEBUG productPage.addProductTest - Test_04-PASS
+08:35:15.628 [main] DEBUG pos.posTest - Test_04-PASS
+08:45:13.964 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+08:55:31.296 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:05:01.516 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:06:17.418 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:06:33.241 [main] DEBUG productPage.addProductTest - Test_04-PASS
+09:07:07.890 [main] DEBUG pos.posTest - Test_04-PASS
+09:09:28.992 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+09:09:46.258 [main] DEBUG productPage.addProductTest - Test_04-PASS
+09:10:20.318 [main] DEBUG pos.posTest - Test_04-PASS
+19:56:40.384 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+19:57:01.252 [main] DEBUG LoginPage.LoginapplicationTest - Title match
+19:57:39.415 [main] DEBUG productPage.addProductTest - Test_04-PASS
+19:58:15.095 [main] DEBUG pos.posTest - Test_04-PASS

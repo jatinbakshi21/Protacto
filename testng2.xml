@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite preserve-order="true" name="Suite" >
+<listeners>
+<listener class-name="testcases.Listeners"/>
+</listeners>
+  <test  name="Test">
+    <classes>
+      <class name="LoginPage.LoginapplicationTest">
+	      <methods>
+	      	  <include name="Validate_LOGIN_Invalid_Credentials_01"/>	
+		      <include name="Validate_LOGIN_with_Valid_Credentials_02"/>
+		      <include name ="Validate_TITLE_03"/>
+	      </methods>
+  	 </class>
+
+ 	  <class name="LoginPage.HomepageTest">
+		  <methods>
+		  	<include name="Homepage_MENU_Product"/>
+		  </methods>
+	  </class>
+	  
+	  <class name="productPage.productListTest">
+		  <methods>
+		  	<include name="Search_Product"/>
+		  </methods>
+	  </class>
+	  
+	  <!--<class name="productPage.addProductTest">
+		  <methods>
+		  	<include name="Add_Product"/>
+		  </methods>
+	  </class> -->
+  		
+
+
+ 	  <class name="pos.posTest">
+		  <methods>
+		  	<include name="Verify_Category_Count"/>
+		  	<include name="POS_Product_Category_count"/>
+		  	<include name="First_Payment"/>
+		  </methods>
+	  </class>
+	
+ <!--     <class name="ContactPage.NewContactTest">
+
+	      <methods>
+		      <include name ="Submit_Contact_05"/>
+		      <include name ="View_Submitted_Contact_06"/>
+	      </methods>
+      </class>
+      
+      <class name="ContactPage.EditContactTest">
+	      <methods>
+		      <include name ="ClickEdit_07"/>
+		      <include name ="EditContact_08"/>
+		      <include name ="Delete_Contact_09"/>
+	      </methods>
+      </class>
+      
+      <class name="ContactPage.DeleteContactTest">
+	      <methods>
+		      <exclude name ="CheckContact_10"/>
+		      <exclude name ="Delete_Single_Contact_11"/>
+		      <include name ="CheckAllContact_12"/>
+		      <exclude name ="Delete_Allpage_Contact_13"/>
+		      <exclude name ="Click_Edit_Contact_Link_14"/
+		      <exclude name ="Click_Delete_Contact_Link_15"/>
+		      <exclude name ="Check_Text_16"/>
+		      <exclude name ="Check_Text2_17"/>
+		      <include name="Click_contact_link_18"/>
+	      </methods>
+      </class> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
